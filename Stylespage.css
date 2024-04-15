@@ -1,0 +1,113 @@
+/* Global Styles
+--------------------*/
+body {
+    background: royal blue;
+}
+
+body{
+  font-family: 'open sans', sans-serif;
+  margin: 0; 
+}
+h1, h3 {
+  font-family: 'Caveat', cursive;
+}
+h1{
+  font-size: 40px;
+  margin-top: 0;
+}
+
+a {
+  color: #EF233C;
+}
+a: hover {
+  text-decoration: none;
+}
+
+.content-wrap {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.contact-info a {
+  background: white;
+  padding: 10px;
+}
+
+p {
+  background: lightgreen;
+  padding: 10px;
+  margin: 10px;
+}
+
+/* intersectional justice
+---------------------------*/
+.work {
+  background: #EDF2F4
+}
+
+.* Moses
+-------------------------*/
+.moses {
+  background: #8D99AE;
+}
+
+/* Header and Footer
+-------------------*/
+header, footer {
+  background: #2B2D42;
+  color: #8D99AE;
+}
+
+.profile-img {
+  width: 300px;
+  border-radius" 50%
+}
+
+header {
+  text-algin: center;
+}
+
+header h1, header h2 {
+  color: #EDF2F4; 
+
+.demo{
+    color: orange;
+}
+
+#demo {
+    color: Pink;
+}
+
+a:active {
+  border: 1px solid black;
+}
+
+a: hover {
+   color: blue;
+padding; 6px;
+}
+
+a:hover {
+  background: none;
+}
+
+a:foucus,
+input:focus
+  outline: 1px solid black:
+}
+
+a:link {
+     color: white;
+}
+
+a:visited {
+  background: lightblue;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  font-family: Times New Roman;
+}
+
+
